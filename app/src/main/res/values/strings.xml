@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_field">This is my text field</string>
+    <string name="out_lin_text_field">This is my out line text field</string>
+    <string name="log_in">Login page</string>
+    <string name="my_button">my button</string>
+</resources>
